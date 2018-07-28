@@ -2,6 +2,8 @@
   "name": "graphql-server",
   "description": "reading https://medium.com/the-graphqlhub/your-first-graphql-server-3c766ab4f0a2",
   "version": "0.0.0",
+  "author": "Alex Novikov <alex @asnovikov.ru> (https://alexnew.info)",
+  "license": "GPL-3.0-or-later",
   "private": true,
   "scripts": {
     "start": "tsc && node ./bin/www"
